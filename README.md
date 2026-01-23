@@ -12,9 +12,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=meghanadhjanga-245&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=meghanadhjanga-245&icon=9&color=1)](https://visitcount.itsvg.in)
 
